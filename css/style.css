@@ -250,6 +250,9 @@ h6 {
 #intro .intro-info .social-links a:hover {
   background: linear-gradient(#deedb8,#e3efc2);
   color: #063e61;
+  border: #063e61;
+  border-style: solid;
+  border-width: 1px;
 }
 
 /*--------------------------------------------------------------
@@ -1086,8 +1089,11 @@ h6 {
 }
 
 #footer .footer-top .social-links a:hover {
-  background: #4691e0;
+  background: #004a99;
   color: #fff;
+  border: #fff;
+  border-style: solid;
+  border-width: 1px;
 }
 
 #footer .footer-top h4 {
